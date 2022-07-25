@@ -1,0 +1,5 @@
+com\v1\alphavantage\managers\EmailManager.class
+com\v1\alphavantage\AlphaVantageApplication.class
+com\v1\alphavantage\dtos\FormEmailDTO.class
+com\v1\alphavantage\controllers\EmailController.class
+com\v1\alphavantage\managers\EmailManagerImp.class
